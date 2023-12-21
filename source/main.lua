@@ -14,4 +14,5 @@ local tween <const> =pd.easingFunctions
 function pd.update() 
     gfx.sprite.update()
     pd.timer.updateTimers()
+    sequence.update()
 end
