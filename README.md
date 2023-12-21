@@ -1,4 +1,5 @@
 # Playdate VS Code Template (Mac)
+[![Lua Version](https://img.shields.io/badge/Lua-5.4-yellowgreen)](https://lua.org) [![Toybox Compatible](https://img.shields.io/badge/toybox.py-compatible-brightgreen)](https://toyboxpy.io) [![Latest Version](https://img.shields.io/github/v/tag/NicMagnier/PlaydateLDtkImporter)](https://github.com/NicMagnier/PlaydateLDtkImporter/tags)
 Build and run projects in the Playdate simulator with a key shortcut.
 
 ## Requirements
