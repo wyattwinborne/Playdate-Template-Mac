@@ -5,9 +5,9 @@ Build and run projects in the Playdate simulator with a key shortcut.
 - [VS Code](https://code.visualstudio.com)
 - [Node](https://nodejs.org/)
 - [Playdate SDK](https://play.date/dev/)
-- [toybox.py](https://codeberg.org/DidierMalenfant/toybox.py#installation)
+- [toybox.py](https://codeberg.org/DidierMalenfant/toybox.py)
 
-## Get Started
+### Get Started
 **This is a template repo.**  
 You can generate your own separate repositories from this template with the same directory structure, branches, and files. Click "Use this template" to create your own repo.
 
@@ -17,9 +17,9 @@ You can generate your own separate repositories from this template with the same
 4. Assign a keyboard shortcut to the Run Without Debugging option to build and run with a keypress.
 
 
-## SDK Path
+### SDK Path
 in `.vscode/settings.json` you will need to replace the SDK path with your own. It likely looks like this: `/Users/[yourComputerUsername]/Developer/PlaydateSDK`. Your Username can be found at this directory on your Mac: `macintoshHD/Users`
 
-## Output
+### Output
 Build files get output to `Output.pdx`.  
 Change this by editing the `playdate.output` property in `.vscode/settings.json`.
