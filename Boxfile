@@ -1,0 +1,13 @@
+{
+    "toyboxes": {
+        "github.com/Whitebrim/AnimatedSprite": "1",
+        "codeberg.org/DidierMalenfant/Signal": "1",
+        "github.com/NicMagnier/PlaydateSequence": "main",
+        "github.com/RobertCurry0216/roomy-playdate": "1"
+    },
+    "installed": {
+        "codeberg.org/DidierMalenfant/Signal": "1.2.0",
+        "github.com/NicMagnier/PlaydateSequence": "main@9901b077983e59ebe797ebfdeb6c874b7c1040f1",
+        "github.com/RobertCurry0216/roomy-playdate": "1.0.0"
+    }
+}
