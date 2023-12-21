@@ -1,6 +1,8 @@
 # Playdate VS Code Template (Mac)
 [![Lua Version](https://img.shields.io/badge/Lua-5.4-yellowgreen)](https://lua.org) [![Toybox Compatible](https://img.shields.io/badge/toybox.py-compatible-brightgreen)](https://toyboxpy.io)
 
+This template is based on [Playdate-vscode-template](https://github.com/cadin/playdate-vscode-template) by [cadin](https://github.com/cadin).
+
 Build and run projects in the Playdate simulator with a key shortcut.
 
 ## Requirements
@@ -31,7 +33,7 @@ Change this by editing the `playdate.output` property in `.vscode/settings.json`
 This repo comes packaged with a my most used libraries, conveniently accessed and managed with **[toybox.py](https://codeberg.org/DidierMalenfant/toybox.py)**. You can find the installed dependencies in `PlaydateTemplate_Mac/Boxfile`.
 
 ### Installed
-1. [AnimatedSprite](https://www.github.com/Whitebrim/AnimatedSprite)
-2. [Signal](https://www.codeberg.org/DidierMalenfant/Signal) 
-3. [Sequence](https://www.github.com/NicMagnier/PlaydateSequence) 
-4. [roomy](https://www.github.com/RobertCurry0216/roomy-playdate)
+1. [AnimatedSprite](https://github.com/Whitebrim/AnimatedSprite)
+2. [Signal](https://codeberg.org/DidierMalenfant/Signal) 
+3. [Sequence](https://github.com/NicMagnier/PlaydateSequence) 
+4. [roomy](https://github.com/RobertCurry0216/roomy-playdate)
