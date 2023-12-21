@@ -31,7 +31,7 @@ Change this by editing the `playdate.output` property in `.vscode/settings.json`
 This repo comes packaged with a my most used libraries, conveniently accessed and managed with **[toybox.py](https://codeberg.org/DidierMalenfant/toybox.py)**. You can find the installed dependencies in `PlaydateTemplate_Mac/Boxfile`.
 
 ### Installed
-1. [AnimatedSprite](github.com/Whitebrim/AnimatedSprite)
-2. [Signal](codeberg.org/DidierMalenfant/Signal) 
-3. [Sequence](github.com/NicMagnier/PlaydateSequence) 
-4. [roomy](github.com/RobertCurry0216/roomy-playdate)
+1. [AnimatedSprite](https://www.github.com/Whitebrim/AnimatedSprite)
+2. [Signal](https://www.codeberg.org/DidierMalenfant/Signal) 
+3. [Sequence](https://www.github.com/NicMagnier/PlaydateSequence) 
+4. [roomy](https://www.github.com/RobertCurry0216/roomy-playdate)
